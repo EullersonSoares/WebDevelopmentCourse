@@ -1,0 +1,229 @@
+            #top-bar {
+                width: 1133px;
+                margin:0 auto;
+                background-color: red;
+            }   
+            body {
+                margin:0;
+                padding:0;
+                font-family: Helvetica, Arial, sans-serif;
+            }
+            #logo {
+                margin-top:8px;
+                width:100px;
+                float:left;
+                margin-right:8px;
+            }
+            #notification {
+                margin:16px 18px 0px 10px;
+                width:20px;
+                float:left;
+                margin-right:8px;
+            }
+            .topbar-section {
+                float:left;
+                border-left: 1px #CCCCCC solid;
+                height:50px;
+            }
+            #siginin-image {
+                width:25px;
+                margin:12px 0px 12px 15px;
+                float: left;
+            }
+            #signin-text{
+                font-weight: bold;
+                font-size: 18px;
+                position: relative;
+                top: 17px;
+                padding-right: 20px;
+                margin-left: 20px;
+            }
+            #menuTopbar {
+                height: 15px;
+                margin-top: 20px;
+                margin-right: 20px;
+                float: left;
+            }
+            #input-text {
+                float: left;
+                margin-top: 13px;
+                margin-right: 0px;
+                margin-left: 20px;
+                height: 30px;
+                width: 200px;
+                background-color: darkgrey;
+                border: 1px solid darkgrey;
+                font-family: Helvetica, Arial, sans-serif;
+            }
+            #searchingTopbar {
+                height: 23px;
+                margin-top: 13px;
+                margin-right: 20px;
+                background-color: darkgray;
+                padding: 3.5px 3px 3.5px 7px;;
+                float: left;
+            }
+            .clear {
+                clear: both;
+            }
+            #menu-bar-container {
+                background-color: #B81919;
+                width: 100%;
+                height: 110px;
+            }
+            #menu-container {
+                background-color: #B81919;
+                width: 1255px;
+                margin:0 auto;
+                padding: 0px 0px 0px 140px;
+            }
+            h1 {
+                color: white;
+                padding: 0px;
+                margin: 0px;
+                font-size: 45px;
+                font-weight: normal;
+                padding-top: 10px;
+            }
+            h2 {
+                color: white;
+                padding: 0px;
+                margin: 0px;
+                font-weight: normal;
+                padding-top: 10px;
+            }
+            #local-news {
+                color: white;
+                float: right;
+                margin-top: -50px;
+                margin-right: 160px;
+                border: 1px #BB4545 solid;
+                border-radius: 2px;
+                padding: 5px;
+            
+            }
+            #local-news a {
+                text-decoration: none;
+            }
+            #local {
+                height: 35px;
+                float: right;
+                margin-top: -8px;
+                margin-left: 10px;
+            }
+            #menu-bar-2-container {
+                background-color: #A91717;
+                height: 40px;
+                margin-top: 8px;
+            }
+            #menu-bar2 {
+                width: 1100px;
+                margin: 0 auto;
+                height: 30px;
+            }
+            #menu-bar2 a {
+                color: white;
+                text-decoration: none;
+                padding: 0px 10px;
+                border-right: 1px solid #BB4545;
+                font-size: 18px;
+                position: relative;
+                top: 10px;                
+            }
+            .no-border {
+                border:none !important;
+            }
+            #arrow-more {
+                height: 13px;
+                position: relative;
+                top: 11.3px;
+                
+            }
+            #page-container {
+                width: 1100px;
+                margin: 0 auto;
+            }
+            h3 {
+                font-weight: normal;
+                margin-top: 20px;
+                font-size:25px;
+                border-bottom: 2px solid #a91717;
+                width: 115px;
+            }
+            h4 a {
+                color: #68696D;
+                font-size:30px;
+                text-decoration: none;
+            }
+            h4 a:hover {
+                color: #1167a8;
+            }
+            #article-summary {
+                color: #5a5a5a;
+                width: 250px;
+                float: left;
+            }
+            .clock {
+                height: 15px;
+                position: relative;
+                top: 2px;
+            }
+            #topic-link {
+                color: #a91717;
+                text-decoration: none;
+                border-left: 1px solid #CCCCCC;
+                padding-left: 10px;
+            }
+            #article-summary a:hover {
+                color: #1167a8;
+            }
+            #date {
+                padding-right: 10px;
+            }
+            #article-container {
+                float: left;
+                width: 700px;
+                border-right: 1px solid #CCCCCC;
+            }
+            #asda-image {
+                width: 400px;   
+                margin-left: 25px;
+            }
+            #article-hr {
+                border-top: 1px solid #a91717;
+                width: 50px;
+                float: left;
+            }
+            #article-link {
+                color: black;
+                text-decoration: none;
+                float: left;
+                margin-top: 4px;
+            }
+            h5 {
+                color: #68696D;
+                font-size:25px;
+                font-weight: normal;
+            }
+            #watch-listen {
+                float: right;
+                margin-left: 5px;
+                margin-top: -10px;
+                width: 390px;
+            }
+            .article-side-image {
+                float: left;
+                height: 70px;
+                margin-right: 10px;
+            }
+            .watch-listen-link {
+                text-decoration: none;
+                color: black;
+                font-weight: bold;
+                font-size: 18px;
+                margin-top:-3px;
+                
+            }
+            .watch-listen-link:hover {
+                color: #1167a8;
+            }
